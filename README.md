@@ -59,6 +59,7 @@ The WMI method called in the PowerShell script was modifying the registry. In th
 
 ### S01E07 – Track outbound network connections 
 
+🔜 Coming soon...
 
 ## Season 2
 

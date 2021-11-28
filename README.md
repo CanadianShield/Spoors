@@ -58,8 +58,9 @@ The WMI method called in the PowerShell script was modifying the registry. In th
 📄 Read [S01E06](S01E06.md)
 
 ### S01E07 – Track outbound network connections 
+Last spoor to uncover, the outbound connections made by our macro. In this episode we will look at the traces left (or the lack of) by a network call. 
 
-🔜 Coming soon...
+📄 Read [S01E07](S01E07.md)
 
 ## Season 2
 
